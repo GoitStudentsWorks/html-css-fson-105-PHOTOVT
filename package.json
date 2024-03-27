@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-group-15/",
+    "build": "vite build --base=/html-css-fson-105-PHOTOVT/",
     "preview": "vite preview"
   },
   "devDependencies": {
